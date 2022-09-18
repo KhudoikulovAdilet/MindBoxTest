@@ -1,13 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MindBoxTest
-{
-     public class SQL
-    {
+﻿
 //        CREATE TABLE Products(
 //            Id INT PRIMARY KEY,
 //                	"ProductName" TEXT
@@ -46,6 +37,3 @@ namespace MindBoxTest
 //ON P.Id = PC.ProductId
 //LEFT JOIN Categories C
 //ON PC.CategoryId = C.Id;
-
-    }
-}
